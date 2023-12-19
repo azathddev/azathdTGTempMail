@@ -1,8 +1,6 @@
 import requests
 import random
 import string
-import time
-import os
 from config import *
 
 API = 'https://www.1secmail.com/api/v1/'
